@@ -1,1 +1,1 @@
-just a simple output addition code
+just a simple output based addition code
